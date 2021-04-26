@@ -7,7 +7,7 @@
 	response.sendRedirect( imsi ) ;
 %>
 
-<%
-%> 
+<%-- 허허
+--%> 
 </body>
 </html>
